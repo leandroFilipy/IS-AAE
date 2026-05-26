@@ -333,6 +333,6 @@ Agradecimentos especiais a:
 
 ---
 
-Desenvolvido com ❤️ por [Leandro Filipy](https://github.com/leandroFilipy)
+
 
 </div>
